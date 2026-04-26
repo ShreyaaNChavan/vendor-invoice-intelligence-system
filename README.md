@@ -188,6 +188,7 @@ streamlit run app.py
 ## Author
 
 **Shreya Navnath Chavan**
+
 AI & Data Science Student
 
 ---
